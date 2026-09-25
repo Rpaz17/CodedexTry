@@ -1,6 +1,8 @@
 ### AL ###
 
 .env
+.env.*
+!.env.example
 
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
